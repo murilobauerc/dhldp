@@ -1,0 +1,19 @@
+html {
+    background-color: cornsilk;
+}
+
+
+.links {
+    text-decoration: cornsilk;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+}
+
+img {
+    width: 500px;
+}
+
+.container {
+    text-align: center;
+}
